@@ -86,11 +86,13 @@ The models are evaluated on the test set using multiple metrics:
 ```
 email-spam-detection-ml/
 ├── README.md
+├── .gitignore
 ├── Email_Spam_Detection_ML.ipynb
 ├── spam_detector.py
 ├── data_loader.py
 ├── requirements.txt
 └── results/
+    ├── ANALYSIS.md
     └── spam_detection_analysis.png
 ```
 
